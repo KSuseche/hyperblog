@@ -39,4 +39,7 @@ body{
 font-size: 20px;
 color: black;
 }
-
+#font
+{
+    width: 100%;
+}
