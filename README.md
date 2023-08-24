@@ -6,10 +6,10 @@ Un blog increíble para el curso de [Git y Github](http://platzi.com/cursos/git-
 
 ###Que aprendi en el curso:
 
-*comandos 
-*Flujo de trabajo
-*Amor por aprender
-*Trucos
-*Personalidades
+-comandos 
+-Flujo de trabajo
+-Amor por aprender
+-Trucos
+-Personalidades
 
 Y por ultimo recomiendo este curso **Gracia por enseñarme de todo ** Me despido.
