@@ -3,7 +3,7 @@ Un blog increíble para el curso de [Git y Github](http://platzi.com/cursos/git-
 > Este curso te sirve demasiado para mejorar tus habilidades como programdor 
 > - Karen useche 
 
-##Que aprendi en el curso
+#Que aprendi en el curso
 *comandos 
 *Flujo de trabajo
 *Amor por aprender
